@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_tips_4"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bb"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.androidlime.rabindranthtagore.Tips_4">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="206dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv4"
+                android:textSize="20dp"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text=" ছোটগল্প  \n\nরবীন্দ্রনাথ ঠাকুর ছিলেন বাংলা সাহিত্যের প্রথম সার্থক ছোটগল্পকার। মূলত হিতবাদী, সাধনা, ভারতী, সবুজ পত্র প্রভৃতি মাসিক পত্রিকাগুলির চাহিদা মেটাতে তিনি তাঁর ছোটগল্পগুলি রচনা করেছিলেন। এই গল্পগুলির উচ্চ সাহিত্যমূল্য-সম্পন্ন। রবীন্দ্রনাথের জীবনের “সাধনা” পর্বটি (১৮৯১–৯৫) ছিল সর্বাপেক্ষা সৃষ্টিশীল পর্যায়। তাঁর গল্পগুচ্ছ গল্পসংকলনের প্রথম তিন খণ্ডের চুরাশিটি গল্পের অর্ধেকই রচিত হয় এই সময়কালের মধ্যে। গল্পগুচ্ছ সংকলনের অন্য গল্পগুলির অনেকগুলিই রচিত হয়েছিল রবীন্দ্রজীবনের সবুজ পত্র পর্বে (১৯১৪–১৭; প্রমথ চৌধুরী সম্পাদিত পত্রিকার নামানুসারে) তাঁর উল্লেখযোগ্য কয়েকটি গল্প হল “কঙ্কাল”, “নিশীথে”, “মণিহারা”, “ক্ষুধিত পাষাণ”, “স্ত্রীর পত্র”, “নষ্টনীড়”, “কাবুলিওয়ালা”, “হৈমন্তী”, “দেনাপাওনা”, “মুসলমানীর গল্প” ইত্যাদি। শেষ জীবনে রবীন্দ্রনাথ লিপিকা, সে ও তিনসঙ্গী গল্পগ্রন্থে নতুন আঙ্গিকে গল্পরচনা করেছিলেন।
+রবীন্দ্রনাথ তাঁর গল্পে পারিপার্শ্বিক ঘটনাবলি বা আধুনিক ধ্যানধারণা সম্পর্কে মতামত প্রকাশ করতেন। কখনও তিনি মনস্তাত্ত্বিক দ্বন্দ্বের বৌদ্ধিক বিশ্লেষণকেই গল্পে বেশি প্রাধান্য দিতেন।
+রবীন্দ্রনাথের একাধিক ছোটগল্প অবলম্বনে চলচ্চিত্র, নাটক ও টেলিভিশন অনুষ্ঠান নির্মিত হয়েছে। তাঁর গল্পের কয়েকটি উল্লেখযোগ্য চলচ্চিত্রায়ণ হল সত্যজিৎ রায় পরিচালিত তিন কন্যা (“মনিহারা”, “পোস্টমাস্টার” ও “সমাপ্তি” অবলম্বনে) ও চারুলতা (“নষ্টনীড়” অবলম্বনে) , তপন সিংহ পরিচালিত অতিথি, কাবুলিওয়ালা ও ক্ষুধিত পাষাণ, পূর্ণেন্দু পত্রী পরিচালিত স্ত্রীর পত্র ইত্যাদি। "
+                />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

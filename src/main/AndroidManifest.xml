@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.androidlime.rabindranthtagore">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/pic"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Tips_1" />
+        <activity android:name=".Tips_2" />
+        <activity android:name=".Tips_3" />
+        <activity android:name=".Tips_4" />
+        <activity android:name=".Tips_5" />
+        <activity android:name=".Tips_6" />
+        <activity android:name=".Tips_7"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_tips_6"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bb"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.androidlime.rabindranthtagore.Tips_6">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="206dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv6"
+                android:textSize="20dp"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="রবীন্দ্রনাথ ঠাকুর ১৯১৫টি গান রচনা করেছিলেন। ধ্রুপদি ভারতীয় সংগীত, বাংলা লোকসংগীত ও ইউরোপীয় সংগীতের ধারা তিনটিকে আত্মস্থ করে তিনি একটি স্বকীয় সুরশৈলীর জন্ম দেন। রবীন্দ্রনাথ তাঁর বহু কবিতাকে গানে রূপান্তরিত করেছিলেন। রবীন্দ্র-বিশেষজ্ঞ সুকুমার সেন রবীন্দ্রসংগীত রচনার ইতিহাসে চারটি পর্ব নির্দেশ করেছেন। প্রথম পর্বে তিনি জ্যোতিরিন্দ্রনাথ ঠাকুরের সৃষ্ট গীতের অনুসরণে গান রচনা শুরু করেছিলেন। দ্বিতীয় পর্যায়ে (১৮৮৪-১৯০০) পল্লীগীতি ও কীর্তনের অনুসরণে রবীন্দ্রনাথ নিজস্ব সুরে গান রচনা শুরু করেন। এই পর্বের রবীন্দ্রসংগীতে ঊনবিংশ শতাব্দীর বিশিষ্ট সংগীতস্রষ্টা মধুকান, রামনিধি গুপ্ত, শ্রীধর কথক প্রমুখের প্রভাবও সুস্পষ্ট। এই সময় থেকেই তিনি স্বরচিত কবিতায় সুর দিয়ে গান রচনাও শুরু করেছিলেন। ১৯০০ সালে শান্তিনিকেতনে বসবাস শুরু করার পর থেকে রবীন্দ্রসংগীত রচনার তৃতীয় পর্বের সূচনা ঘটে। এই সময় রবীন্দ্রনাথ বাউল গানের সুর ও ভাব তাঁর নিজের গানের অঙ্গীভূত করেন। প্রথম বিশ্বযুদ্ধের পর রবীন্দ্রনাথের গান রচনার চতুর্থ পর্বের সূচনা হয়। কবির এই সময়কার গানের বৈশিষ্ট্য ছিল নতুন নতুন ঠাটের প্রয়োগ এবং বিচিত্র ও দুরূহ সুরসৃষ্টি। তাঁর রচিত সকল গান সংকলিত হয়েছে গীতবিতান গ্রন্থে। এই গ্রন্থের “পূজা”, “প্রেম”, “প্রকৃতি”, “স্বদেশ”, “আনুষ্ঠানিক” ও “বিচিত্র” পর্যায়ে মোট দেড় হাজার গান সংকলিত হয়। পরে গীতিনাট্য, নৃত্যনাট্য, নাটক, কাব্যগ্রন্থ ও অন্যান্য সংকলন গ্রন্থ থেকে বহু গান এই বইতে সংকলিত হয়েছিল। ইউরোপীয় অপেরার আদর্শে বাল্মীকি-প্রতিভা, কালমৃগয়া গীতিনাট্য এবং চিত্রাঙ্গদা, চণ্ডালিকা, ও শ্যামা সম্পূর্ণ গানের আকারে লেখা।
+রবীন্দ্রনাথের সময় বাংলার শিক্ষিত পরিবারে নৃত্যের চর্চা নিষিদ্ধ ছিল। কিন্তু রবীন্দ্রনাথ বিশ্বভারতীর পাঠক্রমে সংগীত ও চিত্রকলার সঙ্গে সঙ্গে নৃত্যকেও অন্তর্ভুক্ত করেন। ভারতের বিভিন্ন প্রদেশের লোকনৃত্য ও ধ্রুপদি নৃত্যশৈলীগুলির সংমিশ্রণে তিনি এক নতুন শৈলীর প্রবর্তন করেন। এই শৈলীটি “রবীন্দ্রনৃত্য” নামে পরিচিত। রবীন্দ্রনাথের গীতিনাট্য ও নৃত্যনাট্যগুলিতে গানের পাশাপাশি নাচও অপরিহার্য। বিশিষ্ট নৃত্যশিল্পী উদয় শংকর যে আধুনিক ভারতীয় নৃত্যধারার প্রবর্তন করেছিলেন, তার পিছনেও রবীন্দ্রনাথের প্রেরণা ছিল।"
+                />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

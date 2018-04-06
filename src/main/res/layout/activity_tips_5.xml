@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_tips_5"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bb"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.androidlime.rabindranthtagore.Tips_5">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="206dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv5"
+                android:textSize="20dp"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text=" উপন্যাস  \n\nরবীন্দ্রনাথ ঠাকুর মোট তেরোটি উপন্যাস রচনা করেছিলেন। এগুলি হল: বৌ-ঠাকুরাণীর হাট (১৮৮৩), রাজর্ষি (১৮৮৭), চোখের বালি (১৯০৩), নৌকাডুবি (১৯০৬), প্রজাপতির নির্বন্ধ (১৯০৮), গোরা (১৯১০), ঘরে বাইরে (১৯১৬), চতুরঙ্গ (১৯১৬), যোগাযোগ (১৯২৯), শেষের কবিতা (১৯২৯), দুই বোন (১৯৩৩), মালঞ্চ (১৯৩৪) ও চার অধ্যায় (১৯৩৪)।. বৌ-ঠাকুরাণীর হাট ও রাজর্ষি ঐতিহাসিক উপন্যাস। এদুটি রবীন্দ্রনাথের প্রথম উপন্যাস রচনার প্রচেষ্টা। এরপর থেকে ছোটগল্পের মতো তাঁর উপন্যাসগুলিও মাসিকপত্রের চাহিদা অনুযায়ী নবপর্যায় বঙ্গদর্শন, প্রবাসী, সবুজ পত্র, বিচিত্রা প্রভৃতি পত্রিকায় ধারাবাহিকভাবে প্রকাশিত হয়।
+চোখের বালি উপন্যাসে দেখানো হয়েছে সমসাময়িককালে বিধবাদের জীবনের নানা সমস্যা। নৌকাডুবি উপন্যাসটি আবার লেখা হয়েছে জটিল পারিবারিক সমস্যাগুলিকে কেন্দ্র করে। গোরা রবীন্দ্রনাথের শ্রেষ্ঠ উপন্যাস। এই উপন্যাসে দেখানো হয়েছে ঊনবিংশ শতাব্দীর শেষার্ধের হিন্দু ও ব্রাহ্মসমাজের সংঘাত ও ভারতের তদানীন্তন সামাজিক ও রাজনৈতিক সমস্যাগুলি। ঘরে বাইরে উপন্যাসের বিষয়বস্তু ১৯০৫ সালের বঙ্গভঙ্গ-বিরোধী আন্দোলনের প্রেক্ষাপটে নারী ও পুরুষের সম্পর্কের জটিলতা। স্বামী-স্ত্রীর সম্পর্কের জটিলতা আরও সূক্ষ্মভাবে উঠে এসেছে তাঁর পরবর্তী যোগাযোগ উপন্যাসেও। চতুরঙ্গ উপন্যাসটি রবীন্দ্রনাথের “ছোটগল্পধর্মী উপন্যাস”। স্ত্রীর অসুস্থতার সুযোগে স্বামীর অন্য স্ত্রীলোকের প্রতি আসক্তি – এই বিষয়টিকে উপজীব্য করে রবীন্দ্রনাথ দুই বোন ও মালঞ্চ উপন্যাসদুটি লেখেন। এর মধ্যে প্রথম উপন্যাসটি মিলনান্তক ও দ্বিতীয়টি বিয়োগান্তক। রবীন্দ্রনাথের শেষ উপন্যাস চার অধ্যায় সমসাময়িক বিপ্লবী আন্দোলনের প্রেক্ষাপটে একটি বিয়োগান্তক প্রেমের উপন্যাস।
+রবীন্দ্রনাথ ঠাকুরের উপন্যাস অবলম্বনে কয়েকটি চলচ্চিত্র নির্মিত হয়েছে। এগুলির মধ্যে উল্লেখযোগ্য সত্যজিৎ রায়ের ঘরে বাইরে) ও ঋতুপর্ণ ঘোষের চোখের বালি।"
+                />
+
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>
